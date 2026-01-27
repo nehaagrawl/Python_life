@@ -1,2 +1,2 @@
 # Python_life
-Lets, start with Python
+Lets, start with Python basic till advance
