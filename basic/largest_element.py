@@ -3,6 +3,8 @@ class LargestElement:
     def arrays(__init__,arr):
         max=arr[0]
         for i in arr[1:]:
+            print(i)
+            # print(arr[i])
             if i>max:
                 max=i
         return max
